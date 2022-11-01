@@ -1,4 +1,3 @@
-# 404CustomErrorPage
 custom error page
 
 this is for custom 404 error page
